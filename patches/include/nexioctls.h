@@ -39,6 +39,7 @@
 #define NEX_GET_CAPABILITIES            400
 #define NEX_WRITE_TO_CONSOLE            401
 #define NEX_CT_EXPERIMENTS              402
+#define NEX_SEND_RANDOM_SHIT            414
 #define NEX_GET_CONSOLE                 403
 #define NEX_GET_PHYREG                  404
 #define NEX_SET_PHYREG                  405
